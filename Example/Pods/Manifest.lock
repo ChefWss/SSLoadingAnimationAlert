@@ -1,0 +1,16 @@
+PODS:
+  - SSLoadingAnimationAlert (3.0.0)
+
+DEPENDENCIES:
+  - SSLoadingAnimationAlert (from `../`)
+
+EXTERNAL SOURCES:
+  SSLoadingAnimationAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSLoadingAnimationAlert: 92436ef5dc35d7254406d39081ba521e50d6bc0b
+
+PODFILE CHECKSUM: 2e73f31e2850b4109718168d7af3af8e9c01052b
+
+COCOAPODS: 1.10.0
